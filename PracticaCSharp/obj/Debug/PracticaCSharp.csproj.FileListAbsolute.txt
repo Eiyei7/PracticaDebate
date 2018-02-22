@@ -1,0 +1,81 @@
+c:\users\youth\documents\visual studio 2015\Projects\PracticaCSharp\PracticaCSharp\bin\Debug\PracticaCSharp.exe.config
+c:\users\youth\documents\visual studio 2015\Projects\PracticaCSharp\PracticaCSharp\bin\Debug\PracticaCSharp.exe
+c:\users\youth\documents\visual studio 2015\Projects\PracticaCSharp\PracticaCSharp\bin\Debug\PracticaCSharp.pdb
+c:\users\youth\documents\visual studio 2015\Projects\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.csprojResolveAssemblyReference.cache
+c:\users\youth\documents\visual studio 2015\Projects\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.Form1.resources
+c:\users\youth\documents\visual studio 2015\Projects\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.Properties.Resources.resources
+c:\users\youth\documents\visual studio 2015\Projects\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.csproj.GenerateResource.Cache
+c:\users\youth\documents\visual studio 2015\Projects\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.exe
+c:\users\youth\documents\visual studio 2015\Projects\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.pdb
+c:\users\youth\documents\visual studio 2015\Projects\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.Form2.resources
+c:\users\youth\documents\visual studio 2015\Projects\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.Form3.resources
+C:\Users\Tatiana lludi\Downloads\csharp-master\PracticaCSharp\PracticaCSharp\bin\Debug\PracticaCSharp.exe.config
+C:\Users\Tatiana lludi\Downloads\csharp-master\PracticaCSharp\PracticaCSharp\bin\Debug\PracticaCSharp.exe
+C:\Users\Tatiana lludi\Downloads\csharp-master\PracticaCSharp\PracticaCSharp\bin\Debug\PracticaCSharp.pdb
+C:\Users\Tatiana lludi\Downloads\csharp-master\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Tatiana lludi\Downloads\csharp-master\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.Form1.resources
+C:\Users\Tatiana lludi\Downloads\csharp-master\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.Form2.resources
+C:\Users\Tatiana lludi\Downloads\csharp-master\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.Form3.resources
+C:\Users\Tatiana lludi\Downloads\csharp-master\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.Properties.Resources.resources
+C:\Users\Tatiana lludi\Downloads\csharp-master\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.csproj.GenerateResource.Cache
+C:\Users\Tatiana lludi\Downloads\csharp-master\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.exe
+C:\Users\Tatiana lludi\Downloads\csharp-master\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.pdb
+C:\Users\cecil\Desktop\Csharp\csharp-master\PracticaCSharp\PracticaCSharp\bin\Debug\PracticaCSharp.exe.config
+C:\Users\cecil\Desktop\Csharp\csharp-master\PracticaCSharp\PracticaCSharp\bin\Debug\PracticaCSharp.exe
+C:\Users\cecil\Desktop\Csharp\csharp-master\PracticaCSharp\PracticaCSharp\bin\Debug\PracticaCSharp.pdb
+C:\Users\cecil\Desktop\Csharp\csharp-master\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.csprojResolveAssemblyReference.cache
+C:\Users\cecil\Desktop\Csharp\csharp-master\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.Form1.resources
+C:\Users\cecil\Desktop\Csharp\csharp-master\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.Form2.resources
+C:\Users\cecil\Desktop\Csharp\csharp-master\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.Form3.resources
+C:\Users\cecil\Desktop\Csharp\csharp-master\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.Properties.Resources.resources
+C:\Users\cecil\Desktop\Csharp\csharp-master\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.csproj.GenerateResource.Cache
+C:\Users\cecil\Desktop\Csharp\csharp-master\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.csproj.CoreCompileInputs.cache
+C:\Users\cecil\Desktop\Csharp\csharp-master\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.exe
+C:\Users\cecil\Desktop\Csharp\csharp-master\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.pdb
+C:\Users\Tatiana lludi\Downloads\PracticaCSharp\PracticaCSharp\bin\Debug\PracticaCSharp.exe.config
+C:\Users\Tatiana lludi\Downloads\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.exe
+C:\Users\Tatiana lludi\Downloads\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.pdb
+C:\Users\Tatiana lludi\Downloads\PracticaCSharp\PracticaCSharp\bin\Debug\PracticaCSharp.exe
+C:\Users\Tatiana lludi\Downloads\PracticaCSharp\PracticaCSharp\bin\Debug\PracticaCSharp.pdb
+C:\Users\Tatiana lludi\Downloads\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Tatiana lludi\Downloads\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.Form1.resources
+C:\Users\Tatiana lludi\Downloads\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.Form2.resources
+C:\Users\Tatiana lludi\Downloads\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.Form3.resources
+C:\Users\Tatiana lludi\Downloads\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.Properties.Resources.resources
+C:\Users\Tatiana lludi\Downloads\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.csproj.GenerateResource.Cache
+C:\Users\JUAN\Documents\cobus\Programas Visual\PracticaCSharp\PracticaCSharp\bin\Debug\PracticaCSharp.exe.config
+C:\Users\JUAN\Documents\cobus\Programas Visual\PracticaCSharp\PracticaCSharp\bin\Debug\PracticaCSharp.exe
+C:\Users\JUAN\Documents\cobus\Programas Visual\PracticaCSharp\PracticaCSharp\bin\Debug\PracticaCSharp.pdb
+C:\Users\JUAN\Documents\cobus\Programas Visual\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.csprojResolveAssemblyReference.cache
+C:\Users\JUAN\Documents\cobus\Programas Visual\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.Form1.resources
+C:\Users\JUAN\Documents\cobus\Programas Visual\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.Form2.resources
+C:\Users\JUAN\Documents\cobus\Programas Visual\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.Form3.resources
+C:\Users\JUAN\Documents\cobus\Programas Visual\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.Properties.Resources.resources
+C:\Users\JUAN\Documents\cobus\Programas Visual\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.csproj.GenerateResource.Cache
+C:\Users\JUAN\Documents\cobus\Programas Visual\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.csproj.CoreCompileInputs.cache
+C:\Users\JUAN\Documents\cobus\Programas Visual\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.exe
+C:\Users\JUAN\Documents\cobus\Programas Visual\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.pdb
+C:\Users\Legion\Desktop\PracticaCSharpNomina\PracticaCSharp\bin\Debug\PracticaCSharp.exe.config
+C:\Users\Legion\Desktop\PracticaCSharpNomina\PracticaCSharp\bin\Debug\PracticaCSharp.exe
+C:\Users\Legion\Desktop\PracticaCSharpNomina\PracticaCSharp\bin\Debug\PracticaCSharp.pdb
+C:\Users\Legion\Desktop\PracticaCSharpNomina\PracticaCSharp\obj\Debug\PracticaCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Legion\Desktop\PracticaCSharpNomina\PracticaCSharp\obj\Debug\PracticaCSharp.Properties.Resources.resources
+C:\Users\Legion\Desktop\PracticaCSharpNomina\PracticaCSharp\obj\Debug\PracticaCSharp.csproj.GenerateResource.Cache
+C:\Users\Legion\Desktop\PracticaCSharpNomina\PracticaCSharp\obj\Debug\PracticaCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Desktop\PracticaCSharpNomina\PracticaCSharp\obj\Debug\PracticaCSharp.exe
+C:\Users\Legion\Desktop\PracticaCSharpNomina\PracticaCSharp\obj\Debug\PracticaCSharp.pdb
+C:\Users\Legion\Desktop\PracticaCSharpNomina\PracticaCSharp\obj\Debug\PracticaCSharp.frmInicio.resources
+C:\Users\Legion\Desktop\PracticaCSharpNomina\PracticaCSharp\obj\Debug\PracticaCSharp.frmSueldo.resources
+C:\Users\Legion\Desktop\PracticaCSharpNomina\PracticaCSharp\obj\Debug\PracticaCSharp.frmNomina.resources
+C:\Users\Legion\Desktop\PracticaVisualCNomina\PracticaCSharp\bin\Debug\PracticaCSharp.exe.config
+C:\Users\Legion\Desktop\PracticaVisualCNomina\PracticaCSharp\bin\Debug\PracticaCSharp.exe
+C:\Users\Legion\Desktop\PracticaVisualCNomina\PracticaCSharp\bin\Debug\PracticaCSharp.pdb
+C:\Users\Legion\Desktop\PracticaVisualCNomina\PracticaCSharp\obj\Debug\PracticaCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Legion\Desktop\PracticaVisualCNomina\PracticaCSharp\obj\Debug\PracticaCSharp.frmInicio.resources
+C:\Users\Legion\Desktop\PracticaVisualCNomina\PracticaCSharp\obj\Debug\PracticaCSharp.frmSueldo.resources
+C:\Users\Legion\Desktop\PracticaVisualCNomina\PracticaCSharp\obj\Debug\PracticaCSharp.frmNomina.resources
+C:\Users\Legion\Desktop\PracticaVisualCNomina\PracticaCSharp\obj\Debug\PracticaCSharp.Properties.Resources.resources
+C:\Users\Legion\Desktop\PracticaVisualCNomina\PracticaCSharp\obj\Debug\PracticaCSharp.csproj.GenerateResource.Cache
+C:\Users\Legion\Desktop\PracticaVisualCNomina\PracticaCSharp\obj\Debug\PracticaCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Desktop\PracticaVisualCNomina\PracticaCSharp\obj\Debug\PracticaCSharp.exe
+C:\Users\Legion\Desktop\PracticaVisualCNomina\PracticaCSharp\obj\Debug\PracticaCSharp.pdb
